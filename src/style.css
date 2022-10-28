@@ -124,9 +124,7 @@ nav {
   justify-content: space-between;
   width: 100%;
 }
-.services ul{
-  width: 33%;
-}
+
 #contact{
   display: flex;
   margin-top: 50px;
@@ -292,6 +290,11 @@ nav {
     width: 0px;
   }
 
+}
+@media screen and (orientation: portrait) and (max-width:900px){
+   
+.services ul{
+  width: 33%;
 }
 @media screen and (orientation: landscape) and (max-width:900px){
     #hero-section{
