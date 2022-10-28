@@ -288,8 +288,8 @@ nav {
   .services {
     display: block;
   }
-.services ul{
-  width: 33%;
+  .services ul{
+  width: 100%;
   .about2::-webkit-scrollbar {
     width: 0px;
   }
