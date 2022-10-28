@@ -124,6 +124,9 @@ nav {
   justify-content: space-between;
   width: 100%;
 }
+.services ul{
+  width: 33%;
+}
 #contact{
   display: flex;
   margin-top: 50px;
