@@ -50,7 +50,7 @@ nav {
 }
 
 #design-gallery,
-#about {
+#about,#contact {
   display: flex;
   margin-top: 50px;
 }
@@ -124,9 +124,6 @@ nav {
   align-items: center;
   justify-content: space-between;
   width: 80%;
-}
-#contact {
-  display: flex;
 }
 .contact1 h1 {
   font-size: 100px;
